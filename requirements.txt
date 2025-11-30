@@ -5,3 +5,4 @@ sentence-transformers==2.2.2
 torch==2.2.0
 numpy==1.25.2
 pandas==1.5.3
+gunicorn==21.2.0
